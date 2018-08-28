@@ -57,13 +57,13 @@ This Software tool is to help people who would like to upload a compiled binary 
 Please verify the state of the device and use "CONTINUE" for using a built in SERIAL PORT to read/write to the device.
 
 ### DISCLAIMER:
-This software tool is built on promoting the open source community.
-If you want the source code for commercial purposes, please write to me directly.
+This software tool is built on promoting the open source community, and this does not by any means replace the full scale IDE tools.
 If you have any issues with the tool, please let me know.
 
 
 ### CONTRIBUTORS:
 ## Device_Programmer --> Myself (Nar Prathipati (nar0909)).
+## BOSSAC.exe        --> ShumaTech
 ## Serial Software(CONTINUE button in my tool) --> wterm open source vb.net project.
 
 
