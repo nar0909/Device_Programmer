@@ -1,5 +1,6 @@
 # Device_Programmer
-Device Programmer for Atmel SAM microcontrollers (Tested on Win 7/8.1/10 - Application requires .Net framework)
+Device Programmer for Atmel SAM microcontrollers (Tested on Win 7/8.1/10 - Application requires .Net framework).
+
 This Software tool is to help people who would like to upload a compiled binary files generated from Arduino IDE or similar software into a SAMD based Arduino board.
 
 
